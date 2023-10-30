@@ -1,0 +1,10 @@
+@import url(./Navbar/Navbar.css);
+@import url(./Sidebar/Sidebar.css);
+@import url(./Cart/Cart.css);
+@import url(./Footer/Footer.css);
+@import url(./ProductCard/ProductCard.css);
+@import url(./Filters/FilterDesktop/FiltersDesktop.css);
+@import url(./Filters/FilterPhone/FilterPhone.css);
+@import url(./NoProductsFound/NoProductsFound.css);
+@import url(./Loader/Loader.css);
+@import url("./SearchBar/SearchBar.css");
